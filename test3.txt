@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "code": "0001",
+            "name": "อัตราการติดเชื้อในรพ.",
+            "id": "1",
+            "checked": "checked"
+        },
+        {
+            "code": "0002",
+            "name": "ประสิทธิภาพการเฝ้าระวังการติดเชื้อ",
+            "id": "2",
+            "checked": ""
+        },
+        {
+            "code": "0003",
+            "name": "CAUTI",
+            "id": "3",
+            "checked": ""
+        },
+        {
+            "code": "0004",
+            "name": "Phlebitis",
+            "id": "4",
+            "checked": ""
+        },
+        {
+            "code": "0005",
+            "name": "Episiotomy",
+            "id": "5",
+            "checked": ""
+        },
+        {
+            "code": "0006",
+            "name": "Omphalitis",
+            "id": "6",
+            "checked": ""
+        },
+        {
+            "code": "0007",
+            "name": "HAP",
+            "id": "7",
+            "checked": ""
+        },
+        {
+            "code": "0008",
+            "name": "Neonatal sepsis",
+            "id": "8",
+            "checked": ""
+        },
+        {
+            "code": "0009",
+            "name": "การติดเชื้อดื้อยา",
+            "id": "9",
+            "checked": ""
+        },
+        {
+            "code": "0010",
+            "name": "การติดเชื้อจากการผ่าฟันคุด",
+            "id": "10",
+            "checked": ""
+        },
+        {
+            "code": "0011",
+            "name": "บุคคลากรได้รับอุบัติเหตุหรือบาดเจ็บจากงาน",
+            "id": "11",
+            "checked": ""
+        }
+    ]
+}
